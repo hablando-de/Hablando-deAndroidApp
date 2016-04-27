@@ -1,8 +1,9 @@
 <resources>
-    <string name="app_name">HablandoDe</string>
+    <string name="app_name">Hablando-De</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="read_publication_text">LEER</string>
 </resources>
